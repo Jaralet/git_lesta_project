@@ -6,4 +6,4 @@ def get_users_data():
         ]
     }
 def get_api_status():
-    return {"status": "ok", "message": "api is stable."}
+    return {"status": "ok", "message": "api 2.0 is stable."}
