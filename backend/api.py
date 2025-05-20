@@ -5,3 +5,5 @@ def get_users_data():
             {"id": 2, "name": "Lesta"}
         ]
     }
+def get_api_status():
+    return {"status": "ok", "message": "api is stable."}
